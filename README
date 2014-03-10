@@ -2,4 +2,4 @@ ATTINY85-based infrared proximity sensor.
 
 'Double-sided' design is untested, please use single-sided design (i2c-infrared-proximity-sensor.brd).
 
-Firmware coming soon.
+Firmware is unlikely to be created.
